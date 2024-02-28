@@ -1,0 +1,5 @@
+Array: A fixed-size memory space used to store elements of the same data type.
+
+Static Array: An array with a predetermined size that cannot be changed after declaration. For example, int myar[5]; creates an array with a limit of 5 elements.
+
+Dynamic Array: An array with a flexible size that can be adjusted during runtime. For instance, int myarr[]; declares a dynamic array with no predefined limit on the number of elements it can store.
